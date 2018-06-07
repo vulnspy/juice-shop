@@ -1,0 +1,5 @@
+{
+	"img":"vsplate\/centos7_nodejs10_mongodb:latest",
+	"save_dir":"\/",
+	"mysql_pwd":"toor"
+}
