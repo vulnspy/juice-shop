@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    image: bkimminich/juice-shop:latest
+    ports:
+      - "3000:3000"
